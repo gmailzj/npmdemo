@@ -1,0 +1,22 @@
+{
+  "name": "npmdemozj",
+  "version": "1.0.0",
+  "description": "helloworld",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gmailzj/npmdemo.git"
+  },
+  "keywords": [
+    "helloworld"
+  ],
+  "author": "gmailzj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmailzj/npmdemo/issues"
+  },
+  "homepage": "https://github.com/gmailzj/npmdemo#readme"
+}
