@@ -4,7 +4,7 @@ const path = require('path');
 const bodyparser = require('koa-bodyparser');
 const Koa = require('koa');
 
-module.exports = class CorsPlugin {
+module.exports = class npmdemozj {
     constructor() {
         this.cors = '*'
     }
